@@ -1,0 +1,1 @@
+So game development is hard. Every time you fix one thing, you might be breaking another. A bee was an immovable force of nature with collision physics for some reason. The cart wanted to move down the road. The bee did not want to move. So up the cart goes!
